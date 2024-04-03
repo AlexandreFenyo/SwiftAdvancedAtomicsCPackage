@@ -13,4 +13,3 @@
 #include <pthread.h>
 
 #endif /* pthreadLocks_h */
-
